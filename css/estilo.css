@@ -1,0 +1,23 @@
+.contenedor{
+    position: relative;
+    margin: 0 auto;
+    height: 100px;
+    background: black;
+    color: white;
+}
+
+.contenedor .posicionado{
+	top: 10px;
+	left: 100px;
+    position: absolute;
+    color: black;
+    background: #cccccc;
+}
+
+.droppable {
+    margin-right: 50%;
+    margin-left: 50%;
+    width: 200px;
+    height: 100px;
+    background: red;
+}
